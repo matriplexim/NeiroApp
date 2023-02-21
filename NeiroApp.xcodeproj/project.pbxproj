@@ -37,7 +37,6 @@
 		F7866FFD29A51E6F00ADB44C /* CustomTopTabItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7866FFC29A51E6F00ADB44C /* CustomTopTabItem.swift */; };
 		F7866FFF29A51F4400ADB44C /* TopTabNavigationMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7866FFE29A51F4400ADB44C /* TopTabNavigationMenu.swift */; };
 		F786700129A51F7800ADB44C /* CustomTopTBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = F786700029A51F7800ADB44C /* CustomTopTBC.swift */; };
-		F786700429A52A5100ADB44C /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = F786700329A52A5100ADB44C /* Constants.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -91,7 +90,6 @@
 		F7866FFC29A51E6F00ADB44C /* CustomTopTabItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTopTabItem.swift; sourceTree = "<group>"; };
 		F7866FFE29A51F4400ADB44C /* TopTabNavigationMenu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopTabNavigationMenu.swift; sourceTree = "<group>"; };
 		F786700029A51F7800ADB44C /* CustomTopTBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTopTBC.swift; sourceTree = "<group>"; };
-		F786700329A52A5100ADB44C /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -243,7 +241,6 @@
 		F786700229A52A3500ADB44C /* Constants */ = {
 			isa = PBXGroup;
 			children = (
-				F786700329A52A5100ADB44C /* Constants.swift */,
 			);
 			path = Constants;
 			sourceTree = "<group>";
@@ -384,7 +381,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F786700429A52A5100ADB44C /* Constants.swift in Sources */,
 				F7866FFF29A51F4400ADB44C /* TopTabNavigationMenu.swift in Sources */,
 				F7866FFB29A51CA900ADB44C /* StickersVC.swift in Sources */,
 				F709BD4E299FD86F00BFE9E1 /* CustomCollection.swift in Sources */,
